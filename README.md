@@ -47,6 +47,8 @@ W celu sprawdzenia poprawności tego ćwiczenia, dodano skrypt predict.py. Jego 
 
 # WNIOSKI 
 -Narzędzie MLflow jest świetnym rozwiązaniem w przypadku gdy chcemy zautomatyzować proces tworzenia wersji utworzonych modeli 
+
 -MLflow jest bardzo intuicyjne w obsłudze dzięki jego dashboardowi
+
 -Serwer MLflow postawiony na dedykowanej maszynie może zabezpieczyć nas przed utratą utworzonych modeli 
 
